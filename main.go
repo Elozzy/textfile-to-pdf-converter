@@ -28,6 +28,8 @@ func main() {
 	fmt.Println("Pdf created")
 }
 
+
+ //TODO:
 //accept command line imput from the user
 //change error handling
 // split the application
